@@ -1,4 +1,4 @@
-package com.plcoding.meditationuiyoutube.ui.theme
+package com.plcoding.meditationui.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
